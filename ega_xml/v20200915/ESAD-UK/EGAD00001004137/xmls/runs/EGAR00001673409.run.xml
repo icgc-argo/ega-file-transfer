@@ -1,0 +1,23 @@
+<?xml version = '1.0' encoding = 'UTF-8'?><RUN_SET>
+   <RUN alias="ena-RUN-CRUK-CI-09-03-2018-13:34:34:123-41" center_name="CRUK-CI" broker_name="EGA" accession="ERR2382990">
+      <IDENTIFIERS>
+         <PRIMARY_ID>ERR2382990</PRIMARY_ID>
+         <SUBMITTER_ID namespace="CRUK-CI">ena-RUN-CRUK-CI-09-03-2018-13:34:34:123-41</SUBMITTER_ID>
+      </IDENTIFIERS>
+      <EXPERIMENT_REF accession="ERX2431214">
+         <IDENTIFIERS>
+            <PRIMARY_ID>ERX2431214</PRIMARY_ID>
+         </IDENTIFIERS>
+      </EXPERIMENT_REF>
+      <PLATFORM>
+         <ILLUMINA>
+            <INSTRUMENT_MODEL>Illumina HiSeq 2000</INSTRUMENT_MODEL>
+         </ILLUMINA>
+      </PLATFORM>
+      <DATA_BLOCK>
+         <FILES>
+            <FILE checksum="4b3dd23e31127d73b6b4b5d6a6380dde" checksum_method="MD5" filename="LP6008333-DNA_G03.bam" filetype="bam" unencrypted_checksum="9ea1ccdcc9abc46536b7d0adb7da4486"/>
+         </FILES>
+      </DATA_BLOCK>
+   </RUN>
+</RUN_SET>

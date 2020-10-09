@@ -1,0 +1,32 @@
+<?xml version = '1.0' encoding = 'UTF-8'?><SAMPLE_SET>
+   <SAMPLE alias="LP6008335-DNA_C02" center_name="CRUK-CI" broker_name="EGA" accession="ERS2279805">
+      <IDENTIFIERS>
+         <PRIMARY_ID>ERS2279805</PRIMARY_ID>
+         <SUBMITTER_ID namespace="CRUK-CI">LP6008335-DNA_C02</SUBMITTER_ID>
+      </IDENTIFIERS>
+      <TITLE>LP6008335-DNA_C02</TITLE>
+      <SAMPLE_NAME>
+         <TAXON_ID>9606</TAXON_ID>
+         <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+         <COMMON_NAME>human</COMMON_NAME>
+      </SAMPLE_NAME>
+      <SAMPLE_ATTRIBUTES>
+         <SAMPLE_ATTRIBUTE>
+            <TAG>gender</TAG>
+            <VALUE>female</VALUE>
+         </SAMPLE_ATTRIBUTE>
+         <SAMPLE_ATTRIBUTE>
+            <TAG>phenotype</TAG>
+            <VALUE>non-tumor</VALUE>
+         </SAMPLE_ATTRIBUTE>
+         <SAMPLE_ATTRIBUTE>
+            <TAG>subject_id</TAG>
+            <VALUE>ba008d8420c4c99b5649df06ad0963679f745af843694ab2177999e77007f274</VALUE>
+         </SAMPLE_ATTRIBUTE>
+         <SAMPLE_ATTRIBUTE>
+            <TAG>ENA-CHECKLIST</TAG>
+            <VALUE>ERC000026</VALUE>
+         </SAMPLE_ATTRIBUTE>
+      </SAMPLE_ATTRIBUTES>
+   </SAMPLE>
+</SAMPLE_SET>

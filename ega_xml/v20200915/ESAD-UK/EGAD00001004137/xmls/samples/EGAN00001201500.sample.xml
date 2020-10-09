@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET>
+  <SAMPLE alias="LP6007538-DNA_A01" broker_name="EGA" center_name="CRUK-CI" accession="ERS461747">
+    <IDENTIFIERS>
+      <PRIMARY_ID>ERS461747</PRIMARY_ID>
+      <SUBMITTER_ID namespace="CRUK-CI">LP6007538-DNA_A01</SUBMITTER_ID>
+    </IDENTIFIERS>
+    <TITLE>LP6007538-DNA_A01</TITLE>
+    <SAMPLE_NAME>
+      <TAXON_ID>9606</TAXON_ID>
+      <SCIENTIFIC_NAME>Homo sapiens</SCIENTIFIC_NAME>
+      <COMMON_NAME>human</COMMON_NAME>
+    </SAMPLE_NAME>
+    <DESCRIPTION>ICGC ESAD-UK sample - for full details of sample visit www.icgc.org</DESCRIPTION>
+    <SAMPLE_ATTRIBUTES>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>gender</TAG>
+        <VALUE>female</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>phenotype</TAG>
+        <VALUE>barrett&apos;s</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>subject_id</TAG>
+        <VALUE>9a498e8b17034fd8bb534f0e65e12c83a73aa65908fd41f4a13f86cf35b3e0cd</VALUE>
+      </SAMPLE_ATTRIBUTE>
+      <SAMPLE_ATTRIBUTE>
+        <TAG>ENA-CHECKLIST</TAG>
+        <VALUE>ERC000026</VALUE>
+      </SAMPLE_ATTRIBUTE>
+    </SAMPLE_ATTRIBUTES>
+  </SAMPLE>
+</SAMPLE_SET>
