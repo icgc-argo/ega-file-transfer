@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAR00001673373",
+    "bundle_type": "run",
+    "donor_gender": "male",
+    "ega_analysis_id": "",
+    "ega_dataset_id": "EGAD00001004137",
+    "ega_experiment_id": "EGAX00001627812",
+    "ega_metadata_file_name": "bundle.EGAR00001673373.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20200915",
+    "ega_run_id": "EGAR00001673373",
+    "ega_sample_id": "EGAN00001681710",
+    "ega_study_id": "EGAS00001000559",
+    "files": [
+        {
+            "ega_file_id": "EGAF00001904476",
+            "file_md5sum": "f2f5385a5520f7879705d1c9984e3c68",
+            "file_name": "f2f5385a5520f7879705d1c9984e3c68.LP6008335-DNA_F01.bam",
+            "size": "64437467422"
+        }
+    ],
+    "insert_size": "462",
+    "library_strategy": "WGS",
+    "name": "EGAR00001673373",
+    "paired_end": "True",
+    "project_code": "ESAD-UK",
+    "reference_genome": "",
+    "submitter": "ESAD-UK",
+    "submitter_donor_id": "2c62164585fe00eb93465364e38cf2b51b4c8f2c60d39c1d02847f332d4a408a",
+    "submitter_sample_id": "LP6008335-DNA_F01",
+    "submitter_specimen_id": "2373cd3fe15c413282e371576cd8ac5615419896f3fe607c544fdad420079061",
+    "submitter_specimen_type": "Normal - blood derived"
+}

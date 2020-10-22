@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAR00001325051",
+    "bundle_type": "run",
+    "donor_gender": "male",
+    "ega_analysis_id": "",
+    "ega_dataset_id": "EGAD00001004137",
+    "ega_experiment_id": "EGAX00001296337",
+    "ega_metadata_file_name": "bundle.EGAR00001325051.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20200915",
+    "ega_run_id": "EGAR00001325051",
+    "ega_sample_id": "EGAN00001277420",
+    "ega_study_id": "EGAS00001000559",
+    "files": [
+        {
+            "ega_file_id": "EGAF00000814148",
+            "file_md5sum": "460535b3bd5b6e96141cd6be3575d6cf",
+            "file_name": "460535b3bd5b6e96141cd6be3575d6cf.LP6008031-DNA_H03.bam",
+            "size": "104942869458"
+        }
+    ],
+    "insert_size": "470",
+    "library_strategy": "WGS",
+    "name": "EGAR00001325051",
+    "paired_end": "True",
+    "project_code": "ESAD-UK",
+    "reference_genome": "",
+    "submitter": "ESAD-UK",
+    "submitter_donor_id": "04f3767cc1c78f1c22b06d659d308741a588e272ee723b39f744913ad669cd6e",
+    "submitter_sample_id": "LP6008031-DNA_H03",
+    "submitter_specimen_id": "0197bd92d8b3e6de4ae90c0aa1f275d386c467a4252f150526fd7ef965cbe5c5",
+    "submitter_specimen_type": "Primary tumour - solid tissue"
+}
