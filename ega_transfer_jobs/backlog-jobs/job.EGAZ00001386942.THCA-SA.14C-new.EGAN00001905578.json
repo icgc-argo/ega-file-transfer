@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAZ00001386942",
+    "bundle_type": "analysis",
+    "donor_gender": "male",
+    "ega_analysis_id": "EGAZ00001386942",
+    "ega_dataset_id": "EGAD00001004490",
+    "ega_experiment_id": "",
+    "ega_metadata_file_name": "bundle.EGAZ00001386942.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20200915",
+    "ega_run_id": "",
+    "ega_sample_id": "EGAN00001905578",
+    "ega_study_id": "EGAS00001003357",
+    "files": [
+        {
+            "ega_file_id": "EGAF00002258638",
+            "file_md5sum": "563437a47650f2ccf1d83ce4193e48b4",
+            "file_name": "563437a47650f2ccf1d83ce4193e48b4.14C_recalibrated.bam",
+            "size": "17845387694"
+        }
+    ],
+    "insert_size": "",
+    "library_strategy": "WXS",
+    "name": "EGAZ00001386942",
+    "paired_end": "",
+    "project_code": "THCA-SA",
+    "reference_genome": "GRCh37",
+    "submitter": "THCA-SA",
+    "submitter_donor_id": "14C-new",
+    "submitter_sample_id": "14C-new",
+    "submitter_specimen_id": "14C-new",
+    "submitter_specimen_type": "Primary tumour - solid tissue"
+}

@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAZ00001386951",
+    "bundle_type": "analysis",
+    "donor_gender": "male",
+    "ega_analysis_id": "EGAZ00001386951",
+    "ega_dataset_id": "EGAD00001004490",
+    "ega_experiment_id": "",
+    "ega_metadata_file_name": "bundle.EGAZ00001386951.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20200915",
+    "ega_run_id": "",
+    "ega_sample_id": "EGAN00001905586",
+    "ega_study_id": "EGAS00001003357",
+    "files": [
+        {
+            "ega_file_id": "EGAF00002258629",
+            "file_md5sum": "610aa7eb683081fd8f1574fec98925bd",
+            "file_name": "610aa7eb683081fd8f1574fec98925bd.PTC-0669B.recalibrated.bam",
+            "size": "14305190985"
+        }
+    ],
+    "insert_size": "",
+    "library_strategy": "WXS",
+    "name": "EGAZ00001386951",
+    "paired_end": "",
+    "project_code": "THCA-SA",
+    "reference_genome": "GRCh37",
+    "submitter": "THCA-SA",
+    "submitter_donor_id": "669C-new",
+    "submitter_sample_id": "669B-new",
+    "submitter_specimen_id": "669B-new",
+    "submitter_specimen_type": "Normal - blood derived"
+}

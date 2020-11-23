@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAZ00001301164",
+    "bundle_type": "analysis",
+    "donor_gender": "female",
+    "ega_analysis_id": "EGAZ00001301164",
+    "ega_dataset_id": "EGAD00001003358",
+    "ega_experiment_id": "",
+    "ega_metadata_file_name": "bundle.EGAZ00001301164.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20200915",
+    "ega_run_id": "",
+    "ega_sample_id": "EGAN00001409823",
+    "ega_study_id": "EGAS00001001788",
+    "files": [
+        {
+            "ega_file_id": "EGAF00001665085",
+            "file_md5sum": "b335a9e76c8468035e0c13a36ddd24ef",
+            "file_name": "b335a9e76c8468035e0c13a36ddd24ef.276C_recalibrated.bam",
+            "size": "15395216457"
+        }
+    ],
+    "insert_size": "",
+    "library_strategy": "WXS",
+    "name": "EGAZ00001301164",
+    "paired_end": "",
+    "project_code": "THCA-SA",
+    "reference_genome": "GRCh37",
+    "submitter": "THCA-SA",
+    "submitter_donor_id": "276C",
+    "submitter_sample_id": "276C",
+    "submitter_specimen_id": "276C",
+    "submitter_specimen_type": "Primary tumour - solid tissue"
+}
