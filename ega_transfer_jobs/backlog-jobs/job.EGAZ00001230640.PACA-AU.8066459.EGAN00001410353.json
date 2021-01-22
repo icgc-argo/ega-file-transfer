@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAZ00001230640",
+    "bundle_type": "analysis",
+    "donor_gender": "male",
+    "ega_analysis_id": "EGAZ00001230640",
+    "ega_dataset_id": "EGAD00001002192",
+    "ega_experiment_id": "",
+    "ega_metadata_file_name": "bundle.EGAZ00001230640.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20201218",
+    "ega_run_id": "",
+    "ega_sample_id": "EGAN00001410353",
+    "ega_study_id": "EGAS00001000154",
+    "files": [
+        {
+            "ega_file_id": "EGAF00001210665",
+            "file_md5sum": "0539d706daa6a030e2ba58c9d06d0bdc",
+            "file_name": "0539d706daa6a030e2ba58c9d06d0bdc.IcgcPancreatic_APGI3622_1DNA_1NormalBlood_ICGCABMB20130913023_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "size": "13649542045"
+        }
+    ],
+    "insert_size": "",
+    "library_strategy": "WXS",
+    "name": "EGAZ00001230640",
+    "paired_end": "",
+    "project_code": "PACA-AU",
+    "reference_genome": "GRCh37",
+    "submitter": "PACA-AU",
+    "submitter_donor_id": "ICGC_0373",
+    "submitter_sample_id": "8066459",
+    "submitter_specimen_id": "8066459",
+    "submitter_specimen_type": "Normal - blood derived"
+}

@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAZ00001015337",
+    "bundle_type": "analysis",
+    "donor_gender": "male",
+    "ega_analysis_id": "EGAZ00001015337",
+    "ega_dataset_id": "EGAD00001000660",
+    "ega_experiment_id": "",
+    "ega_metadata_file_name": "bundle.EGAZ00001015337.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20201218",
+    "ega_run_id": "",
+    "ega_sample_id": "EGAN00001173021",
+    "ega_study_id": "EGAS00001000154",
+    "files": [
+        {
+            "ega_file_id": "EGAF00000249337",
+            "file_md5sum": "baa8172dc560ed06cbc24bfce8885d7c",
+            "file_name": "baa8172dc560ed06cbc24bfce8885d7c.IcgcPancreatic_APGI2888_1DNA_7PrimaryTumour_ICGCABMB20121220097_IlluminaNexteraRapidCaptureExomeManual_HumanRapidExomeNextera_Bwa_HiSeq.jpearson.bam",
+            "size": "12604771556"
+        }
+    ],
+    "insert_size": "",
+    "library_strategy": "WXS",
+    "name": "EGAZ00001015337",
+    "paired_end": "",
+    "project_code": "PACA-AU",
+    "reference_genome": "GRCh37",
+    "submitter": "PACA-AU",
+    "submitter_donor_id": "ICGC_0190",
+    "submitter_sample_id": "8057680",
+    "submitter_specimen_id": "8057680",
+    "submitter_specimen_type": "Primary tumour - solid tissue"
+}
