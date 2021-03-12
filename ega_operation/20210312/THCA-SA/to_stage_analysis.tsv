@@ -1,0 +1,2 @@
+project_code	submitter_sample_id	ega_sample_id	ega_analysis_id	file_name	ega_file_id	encrypted_file_md5sum	file_md5sum	dataset_id	file_size
+THCA-SA	669C-new	EGAN00001905587	EGAZ00001386952	EXOME/PTC-0669FC.recalibrated.bam	EGAF00002258628	95e05abb1dd824555774bc01e9fcddac	3ba6aeb0331449d34ecaa63418a453f9	EGAD00001004490	13085699487

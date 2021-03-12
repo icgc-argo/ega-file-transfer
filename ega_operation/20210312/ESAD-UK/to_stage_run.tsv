@@ -1,0 +1,2 @@
+project_code	submitter_sample_id	ega_sample_id	ega_experiment_id	ega_run_id	file_name	ega_file_id	encrypted_file_md5sum	file_md5sum	dataset_id	file_size
+ESAD-UK	LP6008336-DNA_B01	EGAN00001681668	EGAX00001627770	EGAR00001673331	LP6008336-DNA_B01.bam	EGAF00001904434	6821b9a5331bf9e2559d643fb09d333f	4e22612625ff3158acfc5989e68baaa2	EGAD00001004137	135047012834
