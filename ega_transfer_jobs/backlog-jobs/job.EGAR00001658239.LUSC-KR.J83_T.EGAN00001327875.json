@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAR00001658239",
+    "bundle_type": "run",
+    "donor_gender": "male",
+    "ega_analysis_id": "",
+    "ega_dataset_id": "EGAD00001003978",
+    "ega_experiment_id": "EGAX00001612679",
+    "ega_metadata_file_name": "bundle.EGAR00001658239.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20210312",
+    "ega_run_id": "EGAR00001658239",
+    "ega_sample_id": "EGAN00001327875",
+    "ega_study_id": "EGAS00001001474",
+    "files": [
+        {
+            "ega_file_id": "EGAF00001879663",
+            "file_md5sum": "86e5b2b1092e00911cf8dc7cb660a6ae",
+            "file_name": "86e5b2b1092e00911cf8dc7cb660a6ae.J83-T_60x_sort_dup_rea_recal.bam",
+            "size": "262630789169"
+        }
+    ],
+    "insert_size": "30",
+    "library_strategy": "WGS",
+    "name": "EGAR00001658239",
+    "paired_end": "TRUE",
+    "project_code": "LUSC-KR",
+    "reference_genome": "",
+    "submitter": "LUSC-KR",
+    "submitter_donor_id": "SC_LUNG_26",
+    "submitter_sample_id": "J83_T",
+    "submitter_specimen_id": "J83_T",
+    "submitter_specimen_type": "Primary tumour - other"
+}

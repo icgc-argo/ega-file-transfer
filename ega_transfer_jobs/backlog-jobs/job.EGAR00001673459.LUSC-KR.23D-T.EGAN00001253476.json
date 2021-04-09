@@ -1,0 +1,32 @@
+{
+    "bundle_id": "EGAR00001673459",
+    "bundle_type": "run",
+    "donor_gender": "female",
+    "ega_analysis_id": "",
+    "ega_dataset_id": "EGAD00001004027",
+    "ega_experiment_id": "EGAX00001627898",
+    "ega_metadata_file_name": "bundle.EGAR00001673459.xml",
+    "ega_metadata_repo": "raw.githubusercontent.com/icgc-argo/ega-file-transfer/master/ega_xml/v20210312",
+    "ega_run_id": "EGAR00001673459",
+    "ega_sample_id": "EGAN00001253476",
+    "ega_study_id": "EGAS00001002843",
+    "files": [
+        {
+            "ega_file_id": "EGAF00001904539",
+            "file_md5sum": "9ce56cf7f52fc12515373e5a813be746",
+            "file_name": "9ce56cf7f52fc12515373e5a813be746.23D-T_sorted_dupl_realign_recalib.bam",
+            "size": "8812122800"
+        }
+    ],
+    "insert_size": "30",
+    "library_strategy": "WXS",
+    "name": "EGAR00001673459",
+    "paired_end": "TRUE",
+    "project_code": "LUSC-KR",
+    "reference_genome": "",
+    "submitter": "LUSC-KR",
+    "submitter_donor_id": "Kor_12",
+    "submitter_sample_id": "23D-T",
+    "submitter_specimen_id": "23D-T",
+    "submitter_specimen_type": "Primary tumour - other"
+}
